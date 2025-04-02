@@ -64,7 +64,7 @@ const Home = () => {
             </motion.div>
             <div>
               <h1 className={`text-3xl font-bold ${darkMode ? 'text-white' : 'text-gray-800'}`}>
-                Profile Explorer
+                Profile Vista
               </h1>
               <p className={`text-sm ${darkMode ? 'text-blue-300' : 'text-blue-600'}`}>
                 Discover people and their locations
